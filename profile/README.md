@@ -12,7 +12,7 @@ The goal is to provide a lightweight, modern, and self-hostable IaaS platform fo
 
 ---
 ## High-Level Architecture
-| ![OpenHVX High-Level Diagram](./OpenHVX-HLDv0(1).png) |
+| ![OpenHVX High-Level Diagram](./OpenHVX-HLDv0.png) |
 |:--:|
 
 🔗 Explore the [documentation](https://github.com/OpenHVX)  
