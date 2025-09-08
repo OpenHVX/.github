@@ -1,3 +1,4 @@
+comment bien centrer l'image et quelle soit lisible?
 # OpenHVX
 
 **OpenHVX** is an open-source IaaS platform for managing Hyper-V infrastructure.  
@@ -12,8 +13,8 @@ The goal is to provide a lightweight, modern, and self-hostable IaaS platform fo
 
 ---
 ## High-Level Architecture
-<img src="./OpenHVX-HLDv0.png"
-     style="float: left; margin-right: 10px;" width=400/>
+| ![OpenHVX High-Level Diagram](./OpenHVX-HLDv0(1).png) |
+|:--:|
 
 🔗 Explore the [documentation](https://github.com/OpenHVX)  
 💬 Join the discussion via Issues & PRs
