@@ -1,4 +1,3 @@
-comment bien centrer l'image et quelle soit lisible?
 # OpenHVX
 
 **OpenHVX** is an open-source IaaS platform for managing Hyper-V infrastructure.  
