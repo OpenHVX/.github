@@ -3,12 +3,12 @@
 **OpenHVX** is an open-source IaaS platform for managing Hyper-V infrastructure.  
 It is built as a modular ecosystem of services and tools:
 
-- **[openhvx-ui](https://github.com/OpenHVX/openhvx-ui)** – Web interface (Vue3 / Naive UI)  
-- **[openhvx-backend](https://github.com/OpenHVX/openhvx-backend)** – API backend (Node.js / Express / MongoDB / RabbitMQ)  
-- **[openhvx-agent](https://github.com/OpenHVX/openhvx-agent)** – Hyper-V agent (Go / PowerShell)  
-- **[openhvx-img](https://github.com/OpenHVX/openhvx-img)** – Cloud-init images indexer  
+- **[openhvx-ui](https://github.com/OpenHVX/openhvx-ui)** – Web UI (Vue3 / Naive UI)  
+- **[openhvx-backend](https://github.com/OpenHVX/openhvx-backend)** – Backend (Node.js / Express / MongoDB / RabbitMQ)  
+- **[openhvx-agent](https://github.com/OpenHVX/openhvx-agent)** – Agent (Go / PowerShell)  
+- **[openhvx-img](https://github.com/OpenHVX/openhvx-img)** – Cloud-init images indexer (Go)  
 
-The goal is to provide a lightweight, modern, and self-hostable IaaS platform for Hyper-V environments.
+The goal is to provide a **lightweight, scalable, and self-hostable IaaS platform** for Hyper-V environments.
 
 ---
 ## High-Level Architecture
