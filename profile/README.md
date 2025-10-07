@@ -13,9 +13,8 @@ The goal is to provide a **lightweight, scalable, and self-hostable IaaS platfor
 ---
 ## High-Level Architecture
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./schema.openhvx.dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./schema.openhvx.light.png">
-  <img alt="OpenHVX High-Level Diagram" src="./schema.openhvx.dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./schema.openvhx.dark.png">
+  <img alt="Light: 'Light version' Dark: 'Dark version'" src="./schema.openvhx.light.png">
 </picture>
 
 🔗 Explore the [documentation](https://github.com/OpenHVX)  
