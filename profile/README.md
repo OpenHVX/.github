@@ -1,6 +1,11 @@
 # OpenHVX
 
 **OpenHVX** is an open-source IaaS platform for Hyper-V.  
+
+> **⚠️ Project status:**  
+> OpenHVX is currently in active development and **not ready for production**.  
+> Features, APIs and configuration files may change without notice until the first stable release.
+
 It is built as a modular ecosystem of services and tools:
 
 - **[openhvx-admin-ui](https://github.com/OpenHVX/openhvx-admin-ui)** – Web Admin UI (Vue3 / Naive UI)
