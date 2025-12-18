@@ -12,9 +12,9 @@ It is built as a modular ecosystem of services and tools:
 - **[openhvx-tenant-ui](https://github.com/OpenHVX/openhvx-tenant-ui)** – Web Tenant UI (Vue3 / Naive UI) <-- ⚠️ WIP 
 - **[openhvx-cli](https://github.com/OpenHVX/openhvx-cli)** – CLI client (Go) <-- ⚠️ WIP 
 - **[openhvx-backend](https://github.com/OpenHVX/openhvx-backend)** – Backend – Control Plane (Node.js / Express / MongoDB / RabbitMQ)  
-- **[openhvx-agent](https://github.com/OpenHVX/openhvx-agent)** – Hyper-V Agent (Go / PowerShell) – executes tasks on Hyper-V hosts (VM lifecycle, networking hooks, disk attach) and publishes host telemetry
-- **[openhvx-ceph-connector](https://github.com/OpenHVX/openhvx-ceph-connector)** – Ceph connector (Node.js) – executes storage tasks via Ceph Dashboard API (RBD + iSCSI targets) and publishes storage telemetry
-- **[openhvx-network-orchestrator](https://github.com/OpenHVX/openhvx-network-orchestrator)** – Network Orchestrator (Node.js / VyOS / multi-tenant networking) <-- ⚠️ WIP 
+- **[openhvx-agent](https://github.com/OpenHVX/openhvx-agent)** – Hyper-V Agent (Go / PowerShell)
+- **[openhvx-ceph-connector](https://github.com/OpenHVX/openhvx-ceph-connector)** – Ceph connector (Node.js)
+- **[openhvx-network-orchestrator](https://github.com/OpenHVX/openhvx-network-orchestrator)** – Network Orchestrator (Node.js) <-- ⚠️ WIP 
 
 
 
