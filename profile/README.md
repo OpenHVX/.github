@@ -23,7 +23,7 @@ The goal is to provide a **lightweight, scalable, and self-hostable IaaS platfor
 ---
 ## High-Level Architecture
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./schema.openvhx.dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./schema.openhvx.dark.png">
   <img alt="Light: 'Light version' Dark: 'Dark version'" src="./schema.openhvx.light.png">
 </picture>
 
